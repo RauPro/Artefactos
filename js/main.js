@@ -1,5 +1,5 @@
 const username = "RauPro"
-const ioKey = "aio_zLuf36ARk28MViso2h0eVtPAF8ex"
+const ioKey = ""
 const apiUrl = "https://io.adafruit.com";
 const storage = !localStorage.getItem('door') ? [] : JSON.parse(localStorage.getItem('door'));
 
